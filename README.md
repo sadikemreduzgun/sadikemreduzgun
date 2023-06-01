@@ -2,7 +2,7 @@
 <h3 align="center">A creative developer from Turkey</h3>
 
 <img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadikemreduzgun" alt="sadikemreduzgun" /></a> </p>
+
 
 - 🔭 I’m currently working on [Pytchy Watchty](https://github.com/sadikemreduzgun/pytchy-watchy)
 

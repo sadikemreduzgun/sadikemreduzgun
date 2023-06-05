@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Pytchy Watchty](https://github.com/sadikemreduzgun/pytchy-watchy)
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 🤝 I’m looking for help with **Pytchy Watchty**
 

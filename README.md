@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
 
 
-- 🔭 I’m currently working on [Pytchy Watchty](https://github.com/sadikemreduzgun/pytchy-watchy)
+- 🔭 I’m currently working on some private repos to open public.
 
 - 🌱 I’m currently learning **Cloud Computing**
 

@@ -6,10 +6,6 @@
 
 - 🔭 I’m currently working on some private repos to open public.
 
-- 🌱 I’m currently learning **Cloud Computing**
-
-- 🤝 I’m looking for help with **Pytchy Watchty**
-
 - 💬 Ask me about **Python projects**
 
 - 📫 How to reach me **sed3718@gmail.com**

@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif">
 
 
-- 🔭 I’m currently working on a freelance project.
+- 🔭 I’m currently working on projects and some private repos.
 
 - 💬 Ask me about **Python projects**
 
-- 📫 How to reach me **sed3718@gmail.com**
+- 📫 How to reach me **sadikemreduzgun@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
